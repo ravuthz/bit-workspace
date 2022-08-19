@@ -1,0 +1,9 @@
+{
+    "componentId": {
+      "name": "components/admin-header",
+      "version": "0.0.1",
+      "scope": "admin-antd-react"
+    },
+    "propagate": false,
+    "extensions": {}
+  }

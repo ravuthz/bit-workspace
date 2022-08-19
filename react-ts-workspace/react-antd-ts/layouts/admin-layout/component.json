@@ -1,0 +1,13 @@
+{
+  "componentId": {
+    "name": "layouts/admin-layout",
+    "scope": "ravuthz.react-antd-ts"
+  },
+  "propagate": false,
+  "extensions": {
+    "teambit.envs/envs": {
+      "env": "teambit.react/react"
+    },
+    "teambit.react/react": {}
+  }
+}
